@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "budbot-408503",
+  "private_key_id": "621f10d6bdbabc1c4827bc550cfcedee16edcea7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6BrA1t6pf5SYl\njxUS/HhavmL3eL6I6pkCSmgz2aiz1xY8SRldgYr9ipTVpUB0wiJbWMWoEJsRRScW\nX4hlCS00ndN5b6LaZOxyKw2Yq+7FUQcIla+F3VzDGwPDs4+EfLOx6QlzDxOV+XwH\nS/NDJXku6BGEOurm5UbJKGXgV9gzag/zVf5HiQw4bixgXwi4rYT9GllA8Yz21MZo\n8MMFEsKWe0dCbpOt3hK98CJf3DVNUyR3Qpq490d+R1OkCWvOQlARIGpyjYhNAysE\nbA9aqZ2wmAcfdAe26EAhpZPr4aRPuNmdAN1jFuwgziYp4LQ8mLGOr17r7j2CM1Kj\nrZpb8oqfAgMBAAECggEAFGgnbGfO3jYvuRm5IMa8F+L1eFsGi9PbH8/fHnusxg28\n+Aq3fZ/NtNfppoY6S+oABYVM1DhTdSbg4tNtYv1euCbtdqTdzezEWMHgUUngfO97\n61/VoW8R01VjVFSeVH+u4WrEXpreIIBTMCRkyzjmfP7Nl8k0JkrV47tKxxGGkMfM\nNObmbI4LNGVqCClAbMmG2OhyZlEjCyungEurER3TFOStkQbkykDCPO1T/oyRqs8b\neeoXyXQvRXBOoPdV0q0jut1Hk38TGHJ0AaXzc331QVoON0zi2ppoaJlksEtNxZ9z\nax2M6lgLwXRiuFo4HDcxFaRArimViLmtd7AOk97YAQKBgQD3p4tUoIoS/hwICuE0\npet6rRPorS8bLNo6TdfAXYu8YxFvw9ctnNPLwMcQoKIpu6Va8CKkpfJm4A9pp8jJ\nS4QHnwZLzlZpPdM+IhyaWWXVq8Fdzue156+hzgeu0wp2P2W/ALOs60YtdT8mWKnh\nIIGx92ucrC38oEpOlf08M/DdDwKBgQDAS325q/bpMDvJ1S9Hg5cuTxnJsIAFq9RH\nsTRVMLTVTAP2PzE1mTLacTYj73GucJtU+ybtZunKDkfpXss3zdexXxMyLLbi+DNH\ntJEssUMXC+PH148vvRZTxkJDtSM2k6bpnfnpikABXtRbqQ/gXUEQmxARWxzMYoIN\nsLiAM02ZcQKBgHFoNOKU/YWC/d0k9koArNuphFNpcwfTuz81xFXfwIyNJT/0A4Zs\nqYRFjCLuHDRWLHt/Oa4CHAXGFujAH68mOJiw1tZB78oTuLdcMZLw2zREibDmfa8M\nIJ5M1bHWDJVnpLUZoi3OM32/kiKCOZDRLPMNJSdCpXBpCn4AK021T1g7AoGBALK6\nN7wIQnEQvLFmrRAKFc0cBjr5CrS6tY6A/MQlhh4uDgylRWas4qA303tpBT9+OFGv\nMco7+hYsWdhlm/pdHxoj5SKgfsfMq1T9VmW0yEe2bFsFVnenhwYMYvCtfnIuoFfI\n1kyji8P6UOR06WW/J0d46GFJTyYEdR6mX4YAqSJxAoGAUKsxUHcb1iJv1KMknj0l\nKxTL8CKVOJrlQ1BJch22DoMVYvl936st696K0gGhFF8tHKOHUrHM+0QepIAVcK4o\nBH/dWO1kwW4uiwtcLA2nKH8P49Fq+zCNfkYIXOeo7d48wGxOwDmFYiWfceF9dpDv\nRCRMmvVLwcSML3P/j9IdJDM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "budbot@budbot-408503.iam.gserviceaccount.com",
+  "client_id": "114546541300975198166",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/budbot%40budbot-408503.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
