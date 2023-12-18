@@ -20,4 +20,3 @@ To properly install and configure BudBot please follow these instructions
 
 # Support
 For issues with installation, configuration, or to report bugs, please visit my [Discord](https://www.discord.gg/FfdJxUaP8y) server for support.
-You may also visit my website and contact me there as well. [Link to Website](https://www.stonedcookiegaming.com)
