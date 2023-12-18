@@ -1,5 +1,7 @@
 .env
 
+configs\
+
 package.json
 
 package-lock.json
