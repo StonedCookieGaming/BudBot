@@ -5,3 +5,4 @@ configs\
 package.json
 
 package-lock.json
+/configs/servicekey.json
