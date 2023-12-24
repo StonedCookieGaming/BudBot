@@ -8,7 +8,7 @@ const shutdownCommand = new SlashCommandBuilder()
 module.exports = {
   data: shutdownCommand,
   async execute(interaction) {
-    if (interaction.member.roles.cache.some(role => role.name === 'The Godfather')) {
+    if (interaction.member.roles.cache.some(role => role.name === 'Developer')) {
       const confirmButton = new ButtonBuilder()
         .setCustomId('confirm')
         .setLabel('Confirm')
