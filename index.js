@@ -4,7 +4,7 @@ const { Client, GatewayIntentBits, REST, ActivityType } = require('discord.js');
 const { Routes } = require('discord-api-types/v9');
 const fs = require('node:fs');
 const path = require('node:path');
-const welcome = require('./autobroadcasts/welcome');
+const welcome = require('./autobroadcasts/welcome.js');
 
 
 const client = new Client({
