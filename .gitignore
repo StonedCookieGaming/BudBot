@@ -1,6 +1,4 @@
 .env
-
 package.json
-
 package-lock.json
-/configs/servicekey.json
+/node_modules
